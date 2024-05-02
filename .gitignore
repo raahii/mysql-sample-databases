@@ -1,3 +1,5 @@
 */init/*.sql
 */init/*.dump
 !*/init/00_create_users.sql
+
+*.bak
